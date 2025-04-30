@@ -1,7 +1,7 @@
 
 # 🚗 Fuel Efficiency Tracker
 
-A lightweight web application that allows users to track their vehicle's fuel consumption and calculate fuel efficiency. Built using vanilla HTML, CSS, and JavaScript.
+A lightweight web application that allows users to track their vehicle's fuel consumption and calculate fuel efficiency. Built using  HTML, CSS, and JavaScript.
 
 ---
 
